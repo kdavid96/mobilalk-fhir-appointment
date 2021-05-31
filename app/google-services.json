@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "375144627039",
+    "project_id": "mobilalk-98cd5",
+    "storage_bucket": "mobilalk-98cd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375144627039:android:7ab6b9af27faab88ca14ea",
+        "android_client_info": {
+          "package_name": "com.example.fhirappointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375144627039-j8c341mfdsackbfivh84l8p6201v9e1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fhirappointment",
+            "certificate_hash": "012650b50f5b60e30679fb4c67df50cd87163ba2"
+          }
+        },
+        {
+          "client_id": "375144627039-9h4upfv6g44975qsjfj0sr1ec8sodhgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqGt-FejSmZ09vPHDwC13U769sHrSi44E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375144627039-9h4upfv6g44975qsjfj0sr1ec8sodhgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

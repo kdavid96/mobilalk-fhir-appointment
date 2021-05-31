@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FHIR Appointment</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="account_type">Account type</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="back">Back</string>
+    <string name="login_as_guest">Login as Guest</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="logout">Logout</string>
+    <string name="email">Email</string>
+    <string name="delete">Delete</string>
+    <string name="my_appointments">My Appointments</string>
+    <string name="add_appointment">Add Appointment</string>
+    <string name="book">Book</string>
+    <string-array name="account_type">
+        <item>Patient</item>
+        <item>Practitioner</item>
+    </string-array>
+</resources>
